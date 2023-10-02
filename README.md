@@ -15,5 +15,7 @@ To-Do for v2:
 - Implement BVH's
 - Implement Thread Pooling
 - Reduce Lock Contention
+
+
   
-![Uploading 377687585_6643121792468763_8300831540565573253_n.png…]()
+![377687585_6643121792468763_8300831540565573253_n](https://github.com/oscarabreu/Multithreaded-Path-Tracer/assets/99779654/08b1c2b7-66d7-42bb-ac00-272a8c584245)
