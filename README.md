@@ -22,6 +22,14 @@ This project is an enhanced implementation of Peter Shirley's _Ray Tracing in On
 
 - **Comprehensive Commenting**: The code is extensively commented for better readability and understanding.
 
+Upcoming Enhancements
+
+- **Bounding Volume Hierarchies (BVHs)**: I'm planning to implement BVHs to optimize ray intersections, thereby enhancing the rendering speed for scenes with a large number of objects.
+
+- **Expanded Material Library**: In addition to the existing materials, I'll be working to introduce more realistic and diverse materials to enrich the visual appeal of the rendered scenes.
+
+- **Geometric Object Extensions**: The next phase will introduce additional geometric shapes, including prisms, to provide more design flexibility and complexity in scene creations.
+
 ## Performance
 The addition of multithreading has significantly reduced the rendering time. The program now utilizes the `std::thread` library to spawn multiple threads based on the hardware's capability. This parallel processing is complemented by an optimized output buffering mechanism, ensuring a smoother user experience.
 
