@@ -22,7 +22,7 @@ This project is an enhanced implementation of Peter Shirley's _Ray Tracing in On
 
 - **Comprehensive Commenting**: The code is extensively commented for better readability and understanding.
 
-Upcoming Enhancements
+## Upcoming Enhancements
 
 - **Bounding Volume Hierarchies (BVHs)**: I'm planning to implement BVHs to optimize ray intersections, thereby enhancing the rendering speed for scenes with a large number of objects.
 
