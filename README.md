@@ -46,4 +46,3 @@ Feel free to fork and make improvements. If you come up with significant perform
 
 ## License
 This project is open-source. While the enhancements and optimizations are original, credit for the base ray tracing logic goes to Peter Shirley. If you use or share this implementation, please acknowledge both the original work and the enhancements made here.
-  
