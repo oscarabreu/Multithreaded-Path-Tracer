@@ -72,8 +72,8 @@ int main() {
     camera cam;
 
     cam.aspect_ratio      = 16.0 / 9.0; //Defines the dimensions of our image.
-    cam.image_width       = 500; // Width of the image in pixels.
-    cam.samples_per_pixel = 10; // Number of samples to take per pixel - rays per pixel.
+    cam.image_width       = 1600; // Width of the image in pixels.
+    cam.samples_per_pixel = 500; // Number of samples to take per pixel - rays per pixel.
     cam.max_depth         = 50; // Maximum number of bounces for a ray.
 
     cam.vfov     = 40; // Vertical field-of-view in degrees.
